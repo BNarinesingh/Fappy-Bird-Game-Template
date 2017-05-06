@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey Badger Game.Plugins", "Honey Badger Game.Plugins.csproj", "{CA281845-B7BD-22BF-1236-7E306053BD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey Badger Game", "Honey Badger Game.csproj", "{0280CFD4-5DA0-A95F-18BC-C918954741E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey Badger Game.Editor.Plugins", "Honey Badger Game.Editor.Plugins.csproj", "{55A4AB35-D8F8-B83C-8E1B-03EDA0BE8EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA281845-B7BD-22BF-1236-7E306053BD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA281845-B7BD-22BF-1236-7E306053BD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA281845-B7BD-22BF-1236-7E306053BD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA281845-B7BD-22BF-1236-7E306053BD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0280CFD4-5DA0-A95F-18BC-C918954741E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0280CFD4-5DA0-A95F-18BC-C918954741E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0280CFD4-5DA0-A95F-18BC-C918954741E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0280CFD4-5DA0-A95F-18BC-C918954741E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A4AB35-D8F8-B83C-8E1B-03EDA0BE8EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A4AB35-D8F8-B83C-8E1B-03EDA0BE8EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A4AB35-D8F8-B83C-8E1B-03EDA0BE8EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A4AB35-D8F8-B83C-8E1B-03EDA0BE8EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
